@@ -6,3 +6,4 @@ Built an Interactive Mobile Sales Dashboard! Analyzed mobile sales data across m
 🔥 Top brands dominating the market </br>
 Designed with a clean Red & White theme + interactive filters for better decision-making.
 This project sharpened my skills in data analysis, visualization, and dashboard design.
+Screenshoot:![Alt text]
