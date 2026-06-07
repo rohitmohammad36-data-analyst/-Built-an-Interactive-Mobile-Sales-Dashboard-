@@ -5,5 +5,5 @@ Built an Interactive Mobile Sales Dashboard! Analyzed mobile sales data across m
 📍 Khulna & Barishal lead in sales </br>
 🔥 Top brands dominating the market </br>
 Designed with a clean Red & White theme + interactive filters for better decision-making.
-This project sharpened my skills in data analysis, visualization, and dashboard design.
-Screenshoot:![Alt text]
+This project sharpened my skills in data analysis, visualization, and dashboard design.</br>
+Screenshoot:![Alt text](https://github.com/rohitmohammad36-data-analyst/-Built-an-Interactive-Mobile-Sales-Dashboard-/blob/main/MobileSales-%E2%80%94screnshort.png)
